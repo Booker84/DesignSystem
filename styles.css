@@ -1,0 +1,60 @@
+body {
+    margin: 0 50px;
+}
+
+header {
+    text-align: center;
+    font-family: "roboto condensed";
+}
+
+h2 {font-family: "roboto condensed";
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    padding: 5px 20px;
+    border: 2px solid gray;
+    margin-bottom: 10px;
+    height:300px;
+}
+
+.color-card {
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-align: center;
+}
+
+.color-card p {
+    padding-top: 12px;
+    font-family: "roboto condensed";
+    font-size: 24px;
+}
+
+#red {
+    background-color: #B22222 ;
+}
+
+#blue {
+    background-color: #4169E1 ;
+}
+
+#yellow {
+    background-color: #FFFF00 ;
+}
+
+#green {
+    background-color: #33FF00;
+}
+
+#pink {
+    background-color:  #EE6EA9;
+}
+
+#purple {
+    background-color: #9561E2;
+}
